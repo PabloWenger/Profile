@@ -1,7 +1,7 @@
 #My Profile and Social media
 
 ### Linkedin
-My Linkedin profile is just [here!](https://www.linkedin.com/in/pwenger)
+My Linkedin profile is just [here!](https://cl.linkedin.com/in/pwenger)
 ### Gitlab
 Actually i use Gitlab (My profile is [here](https://gitlab.com/u/Souki)).
 >Almost repository are Private anyway.
