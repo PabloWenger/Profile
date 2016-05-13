@@ -1,4 +1,3 @@
-#Indie *Game* Developer
 ##*My Profile and Social media*
 
 ### *Linkedin*
